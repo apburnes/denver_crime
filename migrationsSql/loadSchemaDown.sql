@@ -1,0 +1,3 @@
+DROP TABLE offense_codes CASCADE;
+
+DROP TABLE crime CASCADE;
